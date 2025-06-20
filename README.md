@@ -48,14 +48,16 @@
 
 ###
 
-<img align="right" height="150" src="https://pa1.aminoapps.com/6816/43a009fb5c8bb2270f59ed37e9148918068ce2e0_hq.gif"  />
+<img align="left" height="200" src="https://pa1.aminoapps.com/6816/43a009fb5c8bb2270f59ed37e9148918068ce2e0_hq.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/5c76a07c65d02172eb8ba32743219916/tumblr_o9gw23W9Ec1vwtn8so1_540.gifv"  />
+<img align="left" height="205" src="https://64.media.tumblr.com/5c76a07c65d02172eb8ba32743219916/tumblr_o9gw23W9Ec1vwtn8so1_540.gifv"  />
 
 ###
 
-<img align="left" height="119" src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif"  />
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif"  />
+</div>
 
 ###
