@@ -1,4 +1,8 @@
-<h2 align="left">Hi, My name is Lucas Rafael</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+my+name+is+Lucas;You're+welcome+%3A))" alt="Typing SVG" />
+  </a>
+</p>
 
 ###
 
@@ -67,5 +71,3 @@
 <div align="center">
   <img height="210" src="https://media1.tenor.com/m/lDoAH0dehbIAAAAC/cat-mouse.gif"  />
 </div>
-
-###
