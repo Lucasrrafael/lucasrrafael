@@ -1,8 +1,12 @@
-<h2 align="left">Hi, I'm Lucas<br>I'm a Software Engineering student with a strong passion for technology, data, and all things nerdy. Currently, I'm working as a data intern at Intuitive Care, where I get to dive into real-world data challenges and grow my skills every day.</h2>
+<h2 align="left">Hi, My name is Lucas Rafael</h2>
 
 ###
 
-<div align="center">
+<p align="left">💻 I am a Software Developer<br>🎓 Software Engineering student<br>🏢 Currently working as a Data Engineering intern at Intuitive Care<br>🚀 Always learning and passionate about technology</p>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -17,6 +21,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
+
+###
+
+<p align="left">Check out my social media:</p>
 
 ###
 
@@ -35,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasrrafael&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasrrafael&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -48,16 +56,12 @@
 
 ###
 
-<img align="left" height="200" src="https://pa1.aminoapps.com/6816/43a009fb5c8bb2270f59ed37e9148918068ce2e0_hq.gif"  />
-
-###
-
-<img align="left" height="205" src="https://64.media.tumblr.com/5c76a07c65d02172eb8ba32743219916/tumblr_o9gw23W9Ec1vwtn8so1_540.gifv"  />
+<img align="right" height="180" src="https://pa1.aminoapps.com/6816/43a009fb5c8bb2270f59ed37e9148918068ce2e0_hq.gif"  />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif"  />
+  <img height="200" src="https://64.media.tumblr.com/5c76a07c65d02172eb8ba32743219916/tumblr_o9gw23W9Ec1vwtn8so1_540.gifv"  />
 </div>
 
 ###
