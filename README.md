@@ -56,7 +56,7 @@
 
 ###
 
-<img align="right" height="180" src="https://pa1.aminoapps.com/6816/43a009fb5c8bb2270f59ed37e9148918068ce2e0_hq.gif"  />
+<img align="right" height="200" src="https://pa1.aminoapps.com/6816/43a009fb5c8bb2270f59ed37e9148918068ce2e0_hq.gif"  />
 
 ###
 
