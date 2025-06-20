@@ -56,12 +56,16 @@
 
 ###
 
-<img align="right" height="200" src="https://pa1.aminoapps.com/6816/43a009fb5c8bb2270f59ed37e9148918068ce2e0_hq.gif"  />
+<img align="left" height="200" src="https://media1.tenor.com/m/C055651qVfoAAAAd/typing-cat-keyboard-cat.gif"  />
+
+###
+
+<img align="left" height="180" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif"  />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/5c76a07c65d02172eb8ba32743219916/tumblr_o9gw23W9Ec1vwtn8so1_540.gifv"  />
+  <img height="210" src="https://media1.tenor.com/m/lDoAH0dehbIAAAAC/cat-mouse.gif"  />
 </div>
 
 ###
