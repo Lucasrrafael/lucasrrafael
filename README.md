@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasrrafael&show_icons=true&theme=radical&hide_border=false" height="150" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasrrafael&theme=tokyonight" alt="GitHub Profile Summary Card" />
 </div>
 
 <div align="center">
