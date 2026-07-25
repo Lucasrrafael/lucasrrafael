@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">💻 I am a Software Developer<br>🎓 Software Engineering student<br>🏢 Currently working as a Data Engineering intern at Intuitive Care<br>🚀 Always learning and passionate about technology</p>
+<p align="left">💻 I am a AI development <br>🎓 Computer science student<br>🏢 Currently working as a AI development intern at Sidia Instituto de Ciência e Tecnologia
+<br>🚀 Always learning and passionate about technology</p>
 
 ###
 
