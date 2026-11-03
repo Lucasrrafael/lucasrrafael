@@ -25,6 +25,10 @@
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+    <img width="12" />
+  <a href="https://www.credly.com/badges/06eb185e-b80e-4d26-abab-2585f1b1a65c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="40" alt="AWS Certified AI Practitioner badge" />
+  </a>
 </div>
 
 ###
